@@ -29,4 +29,18 @@
         android:text="interrupt"
         android:textAllCaps="false" />
 
+    <Button
+        android:id="@+id/singleservice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="singleservice"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/service"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="service"
+        android:textAllCaps="false" />
+
 </LinearLayout>
